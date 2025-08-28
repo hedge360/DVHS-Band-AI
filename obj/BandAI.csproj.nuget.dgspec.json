@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rommelvj/Coding/Projects/BandAI/BandAI.csproj": {}
+  },
+  "projects": {
+    "/home/rommelvj/Coding/Projects/BandAI/BandAI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rommelvj/Coding/Projects/BandAI/BandAI.csproj",
+        "projectName": "BandAI",
+        "projectPath": "/home/rommelvj/Coding/Projects/BandAI/BandAI.csproj",
+        "packagesPath": "/home/rommelvj/.nuget/packages/",
+        "outputPath": "/home/rommelvj/Coding/Projects/BandAI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rommelvj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/nix/store/d98wqz50sajfczxrdb9i0v89q6v2b0wf-dotnet-sdk-9.0.108/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/d98wqz50sajfczxrdb9i0v89q6v2b0wf-dotnet-sdk-9.0.108/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

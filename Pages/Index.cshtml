@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Band Agent</h1>
+    <p>A band chatbot designed to ask frequently asked questions</p>
+    <br />
+
+    <form method = "post">
+        <div class = "form-group">
+            <input asp-for = "UserInput" class = "form-control" />
+        </div>
+        <button type = "submit" class = "btn btn-primary">Ask</button>
+    </form>
+
+    <p>@ViewData["Result"]</p>
+</div>
