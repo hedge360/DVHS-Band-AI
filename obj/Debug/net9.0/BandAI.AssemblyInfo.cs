@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BandAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd6f9e5ad0956dd406e9e1814b75342142b737d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08eb639d939ba9f4c17fcdc79cf151e9caf9c8a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BandAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BandAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
