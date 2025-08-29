@@ -1,0 +1,7 @@
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/BandAI
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/appsettings.Development.json
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/appsettings.json
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/BandAI.dll
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/BandAI.deps.json
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/BandAI.runtimeconfig.json
+/home/rommelvj/Coding/Projects/BandAI/bin/Release/net9.0/publish/BandAI.pdb
